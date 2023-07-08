@@ -1,7 +1,7 @@
 # Movie-Recommendation-System
 A web application that predicts top five movies for user based on the content watched by them frequently.It uses tmdb dataset from kaggle and it considers similarity scores for recommending right choices for customer.
 # How to use
-Firstly download the [Tmdb Dataset from Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download) and place it in Movie Recommendation folder
+Firstly download the [Tmdb Dataset from Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download) and place it in Movie Recommendation folder <br>
 Create new virtual enviornment env and activate it using following command .
 ```bash
 pip install virtualenv
