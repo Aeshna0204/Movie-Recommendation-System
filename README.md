@@ -1,5 +1,5 @@
 # Movie-Recommendation-System
-A web application that predicts top five movies for user based on the content watched by them frequently.It consist of a Machine learning model that considers similarity scores for recommending right choices for customer.
+A web application that predicts top five movies for user based on the content watched by them frequently.It uses tmdb dataset from kaggle and it considers similarity scores for recommending right choices for customer.
 # How to use
 Firstly,Create new virtual enviornment env and activate it using following command .
 ```bash
