@@ -21,5 +21,5 @@ pickle.dump(similarity,open('similarity.pkl','wb'))
 ```
 To start the application use this command
 ```bash
-python app.py
+streamlit run app.py
 ```
